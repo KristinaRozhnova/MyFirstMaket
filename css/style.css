@@ -3,10 +3,31 @@ body {
     margin: 0px;
 }
 header {
- margin: 0px;
- padding: 0px;
+    margin: 0px;
+    padding: 0px;
 }
-
+h1 {
+    font-family: 'Bebas Neue', cursive; 
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+}
 img {
     witch: 100%;
+}
+.logo {
+    position: fixed;
+    margin-top: 2%;
+    left: 47%;
+    padding: 0px;
+    hight: 23px;
+}
+
+.header {
+    color: #fff;
+    position: absolute;
+width: 1438px;
+height: 769px;
+left: 433px;
+top: 380px;  
 }
