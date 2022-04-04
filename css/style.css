@@ -22,7 +22,9 @@ img {
     padding: 0px;
     hight: 23px;
 }
-
+footer{
+     background-color: black;
+}
 .header {
     color: #fff;
     position: absolute;
